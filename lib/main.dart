@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return new MaterialApp(routes: {
       "/": (_) => new WebviewScaffold(
-        url: "https://www.portal-islam.id/",
+        url: "https://rumaysho.com/category/belajar-islam/jalan-kebenaran",
 //        appBar: new AppBar(
 //          title: new Text("WebView"),
 //        ),// AppBar
